@@ -1,2 +1,3 @@
 # TEK4710
-Codes and files for the course TEK4710 Space Sensors and Communications
+TEK4710 Space Sensors and Communications
+Repository for the course. Codes and files from the exercises
